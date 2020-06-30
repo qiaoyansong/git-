@@ -1,4 +1,4 @@
-init
+init first man
 i am fuzhua
 modify1
 modify2
