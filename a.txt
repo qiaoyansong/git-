@@ -1,4 +1,5 @@
 init
+i am fuzhu
 modify1
 modify2
 modify3
